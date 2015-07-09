@@ -23,7 +23,7 @@
     // Do any additional setup after loading the view, typically from a nib.
 }
 - (IBAction)gogoCrab:(id)sender {
-    [self.pieProgress setProgress:1.0 animated:YES];
+    [self.pieProgress setProgress:0.8 animated:YES];
 }
 
 - (void)didReceiveMemoryWarning {
